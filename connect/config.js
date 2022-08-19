@@ -7,7 +7,7 @@ Other*/
 global.thum = fs.readFileSync("./worker/media/image/thumb.jpg")
 global.log0 = fs.readFileSync("./worker/media/image/thumb.jpg")
 global.err4r = fs.readFileSync("./worker/media/image/thumb.jpg")
-global.owner = ['6289531704997','6289501060783','6289501060783']
+global.owner = ['6289531704997','6281646829895','6285624823115']
 //-[Dari sini]
 global.rkyt = []
 global.banUser = ['6281366679021@s.whatsapp.net']
